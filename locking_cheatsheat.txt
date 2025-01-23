@@ -1,3 +1,5 @@
+https://kernelnewbies.org/
+
 https://www.kernel.org/pub/linux/kernel/people/rusty/kernel-locking/c214.html#MINIMUM-LOCK-REQIREMENTS
 
 https://www.kernel.org/doc/html/v4.13/kernel-hacking/locking.html
